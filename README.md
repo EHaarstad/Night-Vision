@@ -1,0 +1,2 @@
+# Night-Vision
+I want to create a gui for a raspberry pi camera that has several buttons on screen to adjust a few settings and a button to open a view of what the camera is seeing real time. In that view, I want a few buttons on the left side, including record, take picture, screen brightness (possibly) and exit. This does not need to apply just to night vision as you will be able to use this as a real camera but I want to design it to "clip on" to a scope. The design is my specialty but the gui, I am lost..
